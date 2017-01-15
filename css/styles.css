@@ -1,0 +1,19 @@
+.aboutme {
+  color:red;
+  font-family: fantasy;
+  font-weight: bold;
+}
+
+.post1 {
+  color:pink;
+  font-family: cursive;
+}
+.post2 {
+  color:purple;
+  font-family: sans-serif;
+}
+
+.post3 {
+  color:green;
+  font-style: italic;
+}
